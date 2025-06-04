@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1748585025 source:d:\c_plus_keshe\program7\program_waibao\program1\program1\main.cpp
+	<ncurses.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	<fstream>
+	<vector>
+	<iostream>
+
+1748592685 source:d:\c_plus_keshe\program7\program_waibao\program1\program1 - ¸±±¾ (2)\main.cpp
+	<ncurses.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	<fstream>
+	<vector>
+	<iostream>
+	<sstream>
+	<algorithm>
+
+1748948597 source:d:\c_plus_keshe\program7\program_waibao\program1\program1_finished_readsuccess\main.cpp
+	<ncurses.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	<fstream>
+	<vector>
+	<iostream>
+	<sstream>
+	<algorithm>
+
